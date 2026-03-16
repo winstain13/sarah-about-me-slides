@@ -211,7 +211,7 @@ layout: two-cols
 
 ::right::
 
-<div style="height:calc(100% - 52px); display:flex; align-items:center; justify-content:center; padding:0 12px;">
+<div style="height:calc(100% - 52px); display:flex; align-items:center; justify-content:center; padding:20px 12px 0 12px;">
   <div style="display:flex; justify-content:center; align-items:center; width:100%; height:100%;">
     <img src="./slides/images/ceramics-2.jpg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:28px;" />
   </div>
