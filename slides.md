@@ -127,7 +127,7 @@ Team meeting • 2026
 
 # Outside of work — Biking
 
-<div style="margin-top: 18px; display:grid; grid-template-columns: 2fr 1fr; gap: 14px; align-items:start;">
+<div style="margin-top: 18px; display:grid; grid-template-columns: 1.7fr 1.3fr; gap: 14px; align-items:start;">
   <div>
     <div style="background:white; border-radius:12px; padding:12px;">
       <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items:center;">
@@ -141,8 +141,8 @@ Team meeting • 2026
     </div>
     <div style="font-size: 13px; line-height: 1.3; margin-top: 10px;">Bike ride from SF to Los Altos</div>
   </div>
-  <div style="height:278px; display:flex; align-items:center; justify-content:center; background:transparent; border-radius:10px; padding:10px;">
-    <img src="./slides/images/biking-5-sf-los-altos-route.png" style="max-width:100%; max-height:100%; object-fit:contain; border-radius:10px;" />
+  <div style="height:360px; display:flex; align-items:center; justify-content:center; background:transparent; border-radius:10px; padding:0;">
+    <img src="./slides/images/biking-5-sf-los-altos-route.png" style="width:100%; max-height:100%; object-fit:contain; border-radius:10px;" />
   </div>
 </div>
 
