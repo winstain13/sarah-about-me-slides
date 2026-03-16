@@ -1,0 +1,13 @@
+{
+  "name": "sarah-about-me-slides",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev slides.md",
+    "build": "slidev build slides.md --out dist --base /sarah-about-me-slides/"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.1.0",
+    "@slidev/theme-default": "^0.25.0"
+  }
+}
