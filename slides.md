@@ -182,7 +182,7 @@ Team meeting • 2026
 
 ---
 layout: image-right
-image: "https://placehold.co/900x900/fdf2f8/db2777?text=Add+Pottery+Photo"
+image: "./slides/images/ceramics-1.jpeg"
 ---
 
 # Outside of work
@@ -192,7 +192,19 @@ image: "https://placehold.co/900x900/fdf2f8/db2777?text=Add+Pottery+Photo"
 - I like the tactile, creative side of it
 - It's a good reminder that good things take shaping over time
 
-Placeholder image — we can swap in your real photo and caption.
+---
+layout: two-cols
+---
+
+# Outside of work
+
+## Ceramics
+
+<img src="./slides/images/ceramics-1.jpeg" style="width:100%; max-height:360px; object-fit:contain; border-radius:12px;" />
+
+::right::
+
+<img src="./slides/images/ceramics-2.jpg" style="width:100%; max-height:360px; object-fit:contain; border-radius:12px; margin:auto;" />
 
 ---
 layout: two-cols
