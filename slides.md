@@ -111,15 +111,15 @@ Team meeting • 2026
 
 # Outside of work — Biking
 
-<div style="margin-top: 18px; display:grid; grid-template-columns: 1fr 1fr; gap: 14px; align-items:start;">
+<div style="margin-top: 18px; display:grid; grid-template-columns: 0.95fr 1.05fr; gap: 14px; align-items:start;">
   <div>
-    <div style="height:300px; display:flex; align-items:center; justify-content:center; background:white; border-radius:10px; padding:10px;">
+    <div style="height:320px; display:flex; align-items:center; justify-content:center; background:white; border-radius:10px; padding:10px;">
       <img src="./slides/images/biking-1-number-3.jpg" style="max-width:100%; max-height:100%; object-fit:contain; border-radius:10px;" />
     </div>
     <div style="font-size: 13px; line-height: 1.3; margin-top: 10px;">The three bridges ride</div>
   </div>
-  <div style="height:300px; display:flex; align-items:center; justify-content:center; background:transparent; border-radius:10px; padding:10px;">
-    <img src="./slides/images/biking-2-three-bridges.jpg" style="max-width:100%; max-height:100%; object-fit:contain; border-radius:10px;" />
+  <div style="height:360px; display:flex; align-items:center; justify-content:center; background:transparent; border-radius:10px; padding:0;">
+    <img src="./slides/images/biking-2-three-bridges.jpg" style="width:100%; max-height:100%; object-fit:contain; border-radius:10px;" />
   </div>
 </div>
 
@@ -141,7 +141,7 @@ Team meeting • 2026
     </div>
     <div style="font-size: 13px; line-height: 1.3; margin-top: 10px;">Bike ride from SF to Los Altos</div>
   </div>
-  <div style="height:360px; display:flex; align-items:center; justify-content:center; background:transparent; border-radius:10px; padding:0;">
+  <div style="height:400px; display:flex; align-items:center; justify-content:center; background:transparent; border-radius:10px; padding:0;">
     <img src="./slides/images/biking-5-sf-los-altos-route.png" style="width:100%; max-height:100%; object-fit:contain; border-radius:10px;" />
   </div>
 </div>
@@ -203,7 +203,7 @@ layout: two-cols
 
 ## Ceramics
 
-<div style="height:100%; display:flex; align-items:center; justify-content:center; padding:0 12px;">
+<div style="height:calc(100% - 52px); display:flex; align-items:center; justify-content:center; padding:0 12px;">
   <div style="display:flex; justify-content:center; align-items:center; width:100%; height:100%;">
     <img src="./slides/images/ceramics-1.jpeg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:28px;" />
   </div>
@@ -211,7 +211,7 @@ layout: two-cols
 
 ::right::
 
-<div style="height:100%; display:flex; align-items:center; justify-content:center; padding:0 12px;">
+<div style="height:calc(100% - 52px); display:flex; align-items:center; justify-content:center; padding:0 12px;">
   <div style="display:flex; justify-content:center; align-items:center; width:100%; height:100%;">
     <img src="./slides/images/ceramics-2.jpg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:28px;" />
   </div>
