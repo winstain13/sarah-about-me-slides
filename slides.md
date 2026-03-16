@@ -181,8 +181,7 @@ Team meeting • 2026
 </div>
 
 ---
-layout: image-right
-image: "./slides/images/ceramics-1.jpeg"
+layout: two-cols
 ---
 
 # Outside of work
@@ -191,6 +190,10 @@ image: "./slides/images/ceramics-1.jpeg"
 
 - I like the tactile, creative side of it
 - It's a good reminder that good things take shaping over time
+
+::right::
+
+<video src="https://github.com/winstain13/sarah-about-me-slides/releases/download/media-assets/video-620_singular_display.MOV" style="width:100%; max-height:360px; border-radius:12px;" controls autoplay muted loop playsinline></video>
 
 ---
 layout: two-cols
