@@ -204,13 +204,13 @@ layout: two-cols
 ## Ceramics
 
 <div style="display:flex; justify-content:center; align-items:center; height:100%;">
-  <img src="./slides/images/ceramics-1.jpeg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:12px;" />
+  <img src="./slides/images/ceramics-1.jpeg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:28px;" />
 </div>
 
 ::right::
 
 <div style="display:flex; justify-content:center; align-items:center; height:100%;">
-  <img src="./slides/images/ceramics-2.jpg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:12px;" />
+  <img src="./slides/images/ceramics-2.jpg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:28px;" />
 </div>
 
 ---
