@@ -201,16 +201,18 @@ layout: two-cols
 
 # Outside of work
 
-## Ceramics
-
-<div style="display:flex; justify-content:center; align-items:center; height:100%;">
-  <img src="./slides/images/ceramics-1.jpeg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:28px;" />
+<div style="height:100%; display:flex; align-items:center;">
+  <div style="display:flex; justify-content:center; align-items:center; width:100%; height:100%;">
+    <img src="./slides/images/ceramics-1.jpeg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:28px;" />
+  </div>
 </div>
 
 ::right::
 
-<div style="display:flex; justify-content:center; align-items:center; height:100%;">
-  <img src="./slides/images/ceramics-2.jpg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:28px;" />
+<div style="height:100%; display:flex; align-items:center;">
+  <div style="display:flex; justify-content:center; align-items:center; width:100%; height:100%;">
+    <img src="./slides/images/ceramics-2.jpg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:28px;" />
+  </div>
 </div>
 
 ---
