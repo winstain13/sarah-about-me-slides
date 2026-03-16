@@ -203,11 +203,15 @@ layout: two-cols
 
 ## Ceramics
 
-<img src="./slides/images/ceramics-1.jpeg" style="width:100%; max-height:360px; object-fit:contain; border-radius:12px;" />
+<div style="display:flex; justify-content:center; align-items:center; height:100%;">
+  <img src="./slides/images/ceramics-1.jpeg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:12px;" />
+</div>
 
 ::right::
 
-<img src="./slides/images/ceramics-2.jpg" style="width:100%; max-height:360px; object-fit:contain; border-radius:12px; margin:auto;" />
+<div style="display:flex; justify-content:center; align-items:center; height:100%;">
+  <img src="./slides/images/ceramics-2.jpg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:12px;" />
+</div>
 
 ---
 layout: two-cols
@@ -232,5 +236,7 @@ layout: two-cols
 
 ::right::
 
-<img src="./slides/images/places-town-rainbow.jpg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:12px; margin:auto;" />
+<div style="display:flex; justify-content:center; align-items:center; height:100%; padding-top:28px;">
+  <img src="./slides/images/places-town-rainbow.jpg" style="max-width:100%; max-height:360px; object-fit:contain; border-radius:12px;" />
+</div>
 
