@@ -196,10 +196,9 @@ Placeholder image — we can swap in your real photo and caption.
 
 ---
 layout: two-cols
+---
 
 # Places that shaped me
-
-::left::
 
 **Lived**
 - Mountain View, CA — born and raised
