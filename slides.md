@@ -193,7 +193,7 @@ layout: two-cols
 
 ::right::
 
-<video src="https://github.com/winstain13/sarah-about-me-slides/releases/download/media-assets/video-620_singular_display.MOV" style="width:100%; max-height:360px; border-radius:12px;" controls autoplay muted loop playsinline></video>
+<video src="https://github.com/winstain13/sarah-about-me-slides/releases/download/media-assets/video-620_singular_display.MOV" style="width:100%; max-height:360px; border-radius:28px; margin-top:18px;" controls autoplay muted loop playsinline></video>
 
 ---
 layout: two-cols
